@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/pokes/static/css/main.684dd338.chunk.css",
-    "main.js": "/pokes/static/js/main.ec36cda0.chunk.js",
-    "main.js.map": "/pokes/static/js/main.ec36cda0.chunk.js.map",
-    "runtime-main.js": "/pokes/static/js/runtime-main.2e6848f2.js",
-    "runtime-main.js.map": "/pokes/static/js/runtime-main.2e6848f2.js.map",
-    "static/js/2.7db90bec.chunk.js": "/pokes/static/js/2.7db90bec.chunk.js",
-    "static/js/2.7db90bec.chunk.js.map": "/pokes/static/js/2.7db90bec.chunk.js.map",
+    "main.js": "/pokes/static/js/main.c77b1a46.chunk.js",
+    "main.js.map": "/pokes/static/js/main.c77b1a46.chunk.js.map",
+    "runtime-main.js": "/pokes/static/js/runtime-main.cbb7c742.js",
+    "runtime-main.js.map": "/pokes/static/js/runtime-main.cbb7c742.js.map",
+    "static/js/2.0c48a687.chunk.js": "/pokes/static/js/2.0c48a687.chunk.js",
+    "static/js/2.0c48a687.chunk.js.map": "/pokes/static/js/2.0c48a687.chunk.js.map",
     "index.html": "/pokes/index.html",
-    "precache-manifest.36b7887b197c16d6b2b577ed798cfa69.js": "/pokes/precache-manifest.36b7887b197c16d6b2b577ed798cfa69.js",
+    "precache-manifest.646dc8bdcd2207c57d752c4e179de7c4.js": "/pokes/precache-manifest.646dc8bdcd2207c57d752c4e179de7c4.js",
     "service-worker.js": "/pokes/service-worker.js",
     "static/css/main.684dd338.chunk.css.map": "/pokes/static/css/main.684dd338.chunk.css.map",
-    "static/js/2.7db90bec.chunk.js.LICENSE": "/pokes/static/js/2.7db90bec.chunk.js.LICENSE"
+    "static/js/2.0c48a687.chunk.js.LICENSE": "/pokes/static/js/2.0c48a687.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e6848f2.js",
-    "static/js/2.7db90bec.chunk.js",
+    "static/js/runtime-main.cbb7c742.js",
+    "static/js/2.0c48a687.chunk.js",
     "static/css/main.684dd338.chunk.css",
-    "static/js/main.ec36cda0.chunk.js"
+    "static/js/main.c77b1a46.chunk.js"
   ]
 }
